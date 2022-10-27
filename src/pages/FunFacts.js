@@ -33,7 +33,9 @@ function FunFacts() {
                     <div className="fact-wrapper">
                         <h3>{data[index].fact}</h3>
                         <p>{data[index].description}</p>
-                        <button onClick={refreshPage}>New Fact</button>
+                        <div>
+                            <button onClick={refreshPage}>New Fact</button>
+                        </div>
                     </div>
                 </div>
             </div>

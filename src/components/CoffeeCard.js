@@ -23,7 +23,7 @@ function CoffeeCard({coffee}) {
                 </div>
             </div>
         </div>
-        );
+    );
 }
 
 export default CoffeeCard;

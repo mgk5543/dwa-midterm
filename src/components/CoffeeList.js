@@ -53,18 +53,6 @@ function CoffeeList({ tired }) {
             return null;
     }
 }
-
-    // if (coffeeData.length > 0  && tired === 0){
-    //     return(
-    //         <div className="home-content">
-                
-    //             {
-    //             coffeeData.map((coffee) =>(
-    //                 <CoffeeCard key={"coffee.id"} coffee={coffee}/>
-    //             ))}
-    //         </div>
-    //     );
-    // }
 }
 
 export default CoffeeList;
