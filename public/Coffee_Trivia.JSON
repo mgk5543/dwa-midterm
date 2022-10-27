@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "fact": "The drink dates back to 800 A.D.",
+    "description": "Legend has it that 9th-century goat herders noticed the effect caffeine had on their goats, who appeared to \"dance\" after eating the fruit of the Coffea plant. A local monk then made a drink with the produce and found that it kept him awake at night, thus the original cup of coffee was born."
+  },
+  {
+    "id": 2,
+    "fact": "Coffee beans are technically seeds.",
+    "description": "They're the pits of the cherry-like berries found on the flowering shrubs, but we call them \"beans\" because of the resemblance to legumes."
+  },
+  {
+    "id": 3,
+    "fact": "You can eat coffee cherries as a food.",
+    "description": "Early on, people mixed coffee berries with fat to create an energy-rich snack ball, according to PBS. They would also ferment the pulp to make a wine-like drink (yum!?)."
+  },
+  {
+    "id": 4,
+    "fact": "There are two main types: Arabica and Robusta.",
+    "description": "Growers predominantly plant the Arabica species. Although less popular, Robusta tastes slightly more bitter and contains more caffeine."
+  },
+  {
+    "id": 5,
+    "fact": "Brazil grows the most coffee in the world.",
+    "description": "Today, Brazil produces about third of the world's supply, according to the International Coffee Organization, about twice as much as the second place holder, Vietnam."
+  },
+  {
+    "id": 6,
+    "fact": "Only two U.S. states produce coffee.",
+    "description": "Kona coffee is the United States' gift to the coffee world. Because coffee traditionally grows best in climates along the equator, Hawaii's weather is optimal for harvesting beans. California also recently got into the coffee game with dozens of farms now churning out pricey premium bags."
+  },
+  {
+    "id": 7,
+    "fact": "Espresso means \"pressed out\" in Italian.",
+    "description": "This refers to the way espresso is made — forcing boiling water through pressed coffee grounds. And although espresso has more caffeine per volume than coffee, it would take three shots to equal the amount in a regular cup of joe."
+  },
+  {
+    "id": 8,
+    "fact": "The world's most expensive coffee can cost more than $600 a pound.",
+    "description": "One of the most coveted varieties comes from the feces of an Asian palm civet. The cat-like creature eats fruit including coffee cherries, but is unable to digest the beans. The excreted seeds produce a smooth, less acidic brew called kopi luwak, but the means of production has drawn criticism from animal welfare activists."
+  },
+  {
+    "id": 9,
+    "fact": "Multiple people have tried to ban coffee.",
+    "description": "Back in 1511, leaders in Mecca believed it stimulated radical thinking and outlawed the drink. Some 16th-century Italian clergymen also tried to ban coffee because they believed it to be \"satanic.\" However, Pope Clement VII loved coffee so much that he lifted the ban and had coffee baptized in 1600. \n Even as recently as the 18th century, the Swedish government made both coffee and coffee paraphernalia (including cups and dishes) illegal for its supposed ties to rebellious sentiment."
+  },
+  {
+    "id": 10,
+    "fact": "You can overdose on coffee.",
+    "description": "Don't worry, you would need to drink about 30 cups in a very short period time to get close to a lethal dose of caffeine."
+  },
+  {
+    "id": 11,
+    "fact": "Finland is home to the biggest coffee lovers.",
+    "description": "he average adult Finn goes through 27.5 pounds of coffee each year, according to the International Coffee Organization. Compare that to a measly 11 pounds per American."
+  },
+  {
+    "id": 12,
+    "fact": "Coffee drinkers tend to live longer.",
+    "description": "Research has linking moderate consumption (about three to four cups per day) with a longer life span, plus a reduced risk of cardiovascular disease, type 2 diabetes and Parkinson's, according to Harvard Health Publishing."
+  },
+  {
+    "id": 13,
+    "fact": "The largest cup of coffee ever filled a 9-foot tall cup.",
+    "description": "The 3,487-gallon serving earned a Guiness World Record in 2012."
+  },
+  {
+    "id": 14,
+    "fact": "The Boston Tea Party helped popularize coffee in America.",
+    "description": "In the lead up to the Revolutionary War, it became patriotic to sip java in lieu tea, of PBS reveals. The Civil War also made the drink more pervasive because it helped energize tired troops."
+  },
+  {
+    "id": 15,
+    "fact": "Decaf does not mean caffeine-free.",
+    "description": "An eight-ounce brewed cup of decaf coffee actually contains two to 12 milligrams of caffeine, the Mayo Clinic states. In comparison, a regular cup of coffee supplies between 95 to 200 milligrams, while one can of cola has aout 23 to 35 milligrams of caffeine."
+  },
+  {
+    "id": 16,
+    "fact": "The word \"coffee\" comes from the Arabic word for \"wine.\"",
+    "description": "Qahwah later became kahveh in Turkish, and then koffie in Dutch, which is where we get the English word coffee."
+  },
+  {
+    "id": 17,
+    "fact": "Starbucks opens an average of two stores per day.",
+    "description": "You can now order grande lattés at more than 29,000 locations around the globe, 47 years after the first store launched in Seattle."
+  },
+  {
+    "id": 18,
+    "fact": "One cup of black coffee only has one calorie.",
+    "description": "Adding sweeteners, cream, and other mix-ins can quickly jack up the total. A venti Java Chip Frappuccino from Starbucks contains 88 grams of sugar and 600 calories — more than a McDonald's Big Mac!"
+  },
+  {
+    "id": 19,
+    "fact": "Teddy Roosevelt reportedly coined Maxwell House's slogan.",
+    "description": "Our nation's 26th president loved coffee so much that one of his son's described his custom cup as \"more in the nature of a bathtub,\" according to Smithsonian.com. On a 1907 visit to Andrew Jackson's former estate, the commander in chief supposedly dubbed a cup of Maxwell House joe \"good to the last drop,\" a catchphrase still used today."
+  },
+  {
+    "id": 20,
+    "fact": "You can order coffee 25,000 different ways at Dunkin'.",
+    "description": "The recently renamed doughnut chain did the math on its customizable java drinks. It sells 2 billion cups globally per year, enough for customers to pick each option 80,000 times."
+  },
+  {
+    "id": 21,
+    "fact": "The grounds can beautify your skin.",
+    "description": "Save your leftover beans for a DIY scrub. \"Coffee grounds are physical exfoliators that can lift off dead skin cells, making skin feel smooth and look brighter,\" says Good Housekeeping Beauty Lab chemist Danusia Wnek. \"And caffeine is thought to improve blood circulation in skin, but there isn't yet sufficient clinical data on its use in topical products.\""
+  }
+]

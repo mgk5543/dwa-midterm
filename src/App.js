@@ -6,7 +6,7 @@ import {
 import './App.css';
 import Home from './pages/Home';
 import About from './pages/About';
-import List from './pages/List';
+import FunFacts from './pages/FunFacts';
 
 const router = createBrowserRouter([
   {
@@ -18,8 +18,8 @@ const router = createBrowserRouter([
     element: <About />,
   },
   {
-    path: "list",
-    element: <List />,
+    path: "funfacts",
+    element: <FunFacts />,
   },
 ]);
 
