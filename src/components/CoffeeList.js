@@ -12,14 +12,12 @@ function CoffeeList({ tired }) {
             `https://api.sampleapis.com/coffee/hot`
         )
         .then(function (response) {
-            //console.log(response.data);
             setCoffeeData(response.data);
         })
         .catch(function (error) {
             setCoffeeData({});
         });
     }, []);
-    //console.log(coffeeData);
 
     if (coffeeData.length > 0){
     switch(tired){

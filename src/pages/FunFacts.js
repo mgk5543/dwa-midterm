@@ -12,7 +12,6 @@ function FunFacts() {
             `/Coffee_Trivia.json`
         )
         .then(function (response) {
-            //console.log(response.data);
             setData(response.data);
         })
         .catch(function (error) {
@@ -20,7 +19,6 @@ function FunFacts() {
         });
     }, []);
     var index = Math.round(Math.random()*21);
-    //console.log(data[index]);
 
     function refreshPage() {
         window.location.reload();
